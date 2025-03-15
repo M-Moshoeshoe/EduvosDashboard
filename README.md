@@ -9,10 +9,14 @@ Welcome to the Eduvos IT Graduate Analysis Shiny app! This interactive tool help
 In this app you will find visualizations for things like:
  <br />
  
-<h2>Project Goal</h2>
+<h2>Project Goal and how to run it </h2>
   
 The goal of this project is to explore the key insights from a survey of IT graduate, in a viasualistic manner to know what tools, job roles etc that are common amongst IT graduates.
-
+- install R and Rstudio
+- install required packages
+- clone or download repository
+- Run Dashboard 
+- Open Rstudio , Run Shinny app and enjoy
 
 <h2>🔍 In this app you will find visualizations for things like:</h2>
   
